@@ -8,7 +8,7 @@ Live Link: Coming Soon
 ## Features 
 
 This Project includes:
-- [ ] Home and Booth Page
+- [x] Home and Booth Page
 - [ ] Camera component that lets people practice their smile and compare it to an emoji.
 - [ ] Gallery view that lets users view their previous selfies.
 - [ ] Random Emoji Game!
