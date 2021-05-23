@@ -17,8 +17,8 @@ This Project includes:
 
 From the repo:
 1. Clone this project locally
-2. Run npm install in your terminal
-3. Run npm start
+2. Run `$ npm install ` in your terminal
+3. Run `$ npm start ` in terminal.
 4. Go to Booth View, pick an emoji, and take a selfie!
 
 ## Tech Used
