@@ -22,10 +22,9 @@ From the repo:
 4. Go to Booth View, pick an emoji, and take a selfie!
 
 ## Tech Used
-- HTML
-- CSS
+- HTML, CSS
 - ReactJS
 
 ## Members 
-- Lily
-- Trek
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `Lily`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `Trek`
